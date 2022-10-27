@@ -93,3 +93,12 @@ section {
     font-family: 'Jost', sans-serif;
 
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #FFCA41;
+}
