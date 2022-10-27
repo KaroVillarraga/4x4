@@ -26,6 +26,12 @@ body{
     text-decoration: none;
     margin-right: 60px;
 }
+.btncontactanos {
+    border-radius: 20px;
+    background-color: #FFCA41;
+    text-decoration: none;
+    padding: 10px 25px 10px 25px;
+}
 ul {
     display: flex;
     list-style: none;
@@ -36,7 +42,7 @@ ul {
     align-items: center;
     justify-content: space-between;
 }
-.consultores {
+.titulo {
     font-family: 'Jost', sans-serif;
     margin-left: 6%;
 }
@@ -56,8 +62,9 @@ h6 {
 }
 
 
-.pareja{
+.avatar { 
     margin-left: 6%;
+    width: 500px;
 }
 
 .linkedin {
@@ -84,12 +91,17 @@ section {
     font-size: 16px;
 }
 
-.consultores a {
+.titulo a {
     color: white;
     border-radius: 20px;
     background-color: #FFCA41;
     text-decoration: none;
     padding: 10px 25px 10px 25px;
     font-family: 'Jost', sans-serif;
+    margin-left: 10px;
+
+}
+.tellamamos {
+    display: flex;
 
 }
