@@ -26,6 +26,18 @@ body{
     text-decoration: none;
     margin-right: 60px;
 }
+.btncontactanos {
+    text-align: center;
+    border-radius: 20px;
+    background-color: #FFCA41;
+    text-decoration: none;
+    opacity: 0.5;
+    width: 150px;
+    font-family: 'Jost', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    margin-right: 20px;
+}
 ul {
     display: flex;
     list-style: none;

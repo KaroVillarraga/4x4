@@ -32,7 +32,13 @@ body{
     background-color: #FFCA41;
     text-decoration: none;
     opacity: 0.5;
+    width: 150px;
+    font-family: 'Jost', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    margin-right: 20px;
 }
+
 ul {
     display: flex;
     list-style: none;
@@ -105,4 +111,12 @@ section {
 .tellamamos {
     display: flex;
 
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #FFCA41;
 }
