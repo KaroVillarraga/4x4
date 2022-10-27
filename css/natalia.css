@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@200;300;400;500;700&display=swap');
+
+
+body{
+    margin: auto;
+}
+.top {
+    background-color: #FF7F99;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    font-family: 'Jost', sans-serif;
+    font-style: bold;
+    font-size: 36px;
+    color: white;
+    margin-left: 60px;
+}
+.main ul li a {
+    font-family: 'Jost', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+    margin-right: 60px;
+}
+.btncontactanos {
+    text-align: center;
+    border-radius: 20px;
+    background-color: #FFCA41;
+    border: 1px solid white;
+    text-decoration: none;
+    opacity: 0.5;
+    width: 150px;
+    font-family: 'Jost', sans-serif;
+    font-weight: lighter;
+    font-size: 18px;
+    margin-right: 20px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.titulo {
+    font-family: 'Jost', sans-serif;
+    margin-left: 6%;
+}
+
+h1 {
+    color: #D06077;
+    font-size: 100px;
+    font-weight: normal;
+    line-height: 77%;
+}
+
+h6 {
+    color: black;
+    font-size: 27px;
+    font-weight: lighter;
+    line-height: normal;
+}
+
+
+.avatar { 
+    margin-left: 6%;
+    width: 500px;
+}
+
+.linkedin {
+    width: 30px;
+}
+section {
+    display: flex;
+    height: 528px;
+    background-color: #FF7F99;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.icono {
+    justify-items: center;
+    margin-top: 48px;
+    font-family: 'Jost', sans-serif;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.cargo {
+    font-family: 'Jost', sans-serif;
+    color: black;
+    font-size: 16px;
+}
+
+.titulo a {
+    color: white;
+    border-radius: 20px;
+    background-color: #FFCA41;
+    text-decoration: none;
+    padding: 10px 25px 10px 25px;
+    font-family: 'Jost', sans-serif;
+    margin-left: 10px;
+
+}
+.tellamamos {
+    display: flex;
+
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #FFCA41;
+}
