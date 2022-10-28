@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+
+.formulario {
+    list-style: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.n {
+    border: 4px solid black;
+    width: 500px;
+    height: 40px;
+    justify-content: center;
+}
+.a {
+    border: 4px solid black;
+    width: 500px;
+    height: 40px;
+    justify-content: center;
+}
+.nu {
+    border: 4px solid black;
+    width: 500px;
+    height: 40px;
+    justify-content: center;
+}
+.e {
+    border: 4px solid black;
+    width: 500px;
+    height: 40px;
+    justify-content: center;
+}
+.d {
+    border: 4px solid black;
+    width: 500px;
+    height: 40px;
+    justify-content: center;
+}
+.q {
+    border: 4px solid black;
+    width: 500px;
+    height: 80px;
+    justify-content: center;
+}
+.co {
+    border: 4px solid black;
+    width: 500px;
+    height: 150px;
+    justify-content: center;
+}
+.en {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+    width: 80px;
+    height: 40px;
+    justify-content: center;
+    text-align: center;
+    
+
+}

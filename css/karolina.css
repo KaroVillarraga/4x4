@@ -29,6 +29,7 @@ body{
 .btncontactanos {
     border-radius: 20px;
     background-color: #FFCA41;
+    border: 1px solid white;
     text-decoration: none;
     padding: 10px 25px 10px 25px;
 }
